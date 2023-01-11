@@ -8,7 +8,7 @@ status: Published
 
 En esta máquina, lo primero que haremos será realizar un “NMap” a la dirección IP objetivo para ver qué puertos tiene abiertos.
 
-![Untitled000](Ma%CC%81quina%20Cowboy%20Hacker%2054f0539d9c6e4da58cc78d13d3719c13/Untitled000.png)
+![Untitled000](img/Untitled000.png)
 
 Al finalizar el escaneo, podremos comprobar que la máquina tiene los siguientes puertos abiertos:
 
