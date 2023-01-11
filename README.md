@@ -80,4 +80,4 @@ Como se observa en la imagen anterior, ya hemos conseguido acceder como administ
 
 Le realizamos un “cat” al fichero y este nos devolverá como resultado la última flag.
 
-![Untitled14](img/Untitled14.png)
+![Untitled14](img/Untitled14.jpeg)
