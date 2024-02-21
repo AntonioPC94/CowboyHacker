@@ -6,6 +6,8 @@ status: Published
 
 # Máquina: Cowboy Hacker
 
+Tryhackme: Bounty Hacker
+
 En esta máquina, lo primero que haremos será realizar un “NMap” a la dirección IP objetivo para ver qué puertos tiene abiertos.
 
 ![Untitled000](img/Untitled000.png)
